@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.df64c0d9.chunk.css",
+    "main.js": "/home/static/js/main.beef8e00.chunk.js",
+    "main.js.map": "/home/static/js/main.beef8e00.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.4860ede7.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.4860ede7.js.map",
+    "static/js/2.d6c8d9c9.chunk.js": "/home/static/js/2.d6c8d9c9.chunk.js",
+    "static/js/2.d6c8d9c9.chunk.js.map": "/home/static/js/2.d6c8d9c9.chunk.js.map",
+    "static/css/3.879e9400.chunk.css": "/home/static/css/3.879e9400.chunk.css",
+    "static/js/3.aee15de8.chunk.js": "/home/static/js/3.aee15de8.chunk.js",
+    "static/js/3.aee15de8.chunk.js.map": "/home/static/js/3.aee15de8.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/home/static/css/4.54df59d4.chunk.css",
+    "static/js/4.0cfc6ee4.chunk.js": "/home/static/js/4.0cfc6ee4.chunk.js",
+    "static/js/4.0cfc6ee4.chunk.js.map": "/home/static/js/4.0cfc6ee4.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.4847d4a6f985f4f2847238099bfaed1b.js": "/home/precache-manifest.4847d4a6f985f4f2847238099bfaed1b.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/3.879e9400.chunk.css.map": "/home/static/css/3.879e9400.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/home/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.df64c0d9.chunk.css.map": "/home/static/css/main.df64c0d9.chunk.css.map",
+    "static/js/2.d6c8d9c9.chunk.js.LICENSE.txt": "/home/static/js/2.d6c8d9c9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/home/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.webp": "/home/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/home/static/media/developerActivity.59389695.svg",
+    "static/media/dsn.png": "/home/static/media/dsn.397751d2.png",
+    "static/media/iqube.png": "/home/static/media/iqube.b67369c0.png",
+    "static/media/logo.svg": "/home/static/media/logo.25bf045c.svg",
+    "static/media/long.jpeg": "/home/static/media/long.0870fd8c.jpeg",
+    "static/media/manOnTable.svg": "/home/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/home/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/home/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/home/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/home/static/media/talksCardBack.13780cdd.svg",
+    "static/media/tf.png": "/home/static/media/tf.a5071c5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4860ede7.js",
+    "static/js/2.d6c8d9c9.chunk.js",
+    "static/css/main.df64c0d9.chunk.css",
+    "static/js/main.beef8e00.chunk.js"
+  ]
+}
